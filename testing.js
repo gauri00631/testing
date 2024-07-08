@@ -1,0 +1,1 @@
+console.js("my first page")
